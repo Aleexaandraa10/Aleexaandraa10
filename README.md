@@ -21,7 +21,7 @@ With a solid academic foundation and hands-on experience in project leadership a
 - **C++**, **C**, **CSS**, **HTML**, **JavaScript**, **OOP**, **Docker**
 
 **Beginner:**  
-- **Node.js**, **R**, **R Studio**, **Assembly x86**, **Prolog**, **Haskell**, **Linux**, **Git**, **GitHub**
+- **Node.js**, **R**, **Assembly x86**, **Prolog**, **Haskell**, **Linux**, **Git**
 
 ---
 
