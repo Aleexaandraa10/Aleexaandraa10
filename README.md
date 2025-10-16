@@ -1,31 +1,42 @@
-# 👋 Hi, I'm Ioana Alexandra Tunaru!  
-💻 **Computer Science Student**  
-🚀 **Passionate about crafting software solutions that not only work but inspire.**  
+# Hi, I'm Ioana Alexandra Tunaru!  
+ **Computer Science Student @ University of Bucharest**  
+ **Aspiring Software Engineer | Passionate about .NET, AI & Full-Stack Development**  
 
 ---
 
-### 🌱 About Me  
-I'm a **Computer Science student** with a focus on creating practical software that solves real-world problems. My expertise includes **.NET Core**, **database management**, and **software design**, and I’m constantly exploring **emerging technologies** to stay ahead in the ever-evolving tech landscape.
-
-With a solid academic foundation and hands-on experience in project leadership and collaboration, I thrive in fast-paced environments where quality and innovation matter the most.
+### About Me  
+I'm a Computer Science student focused on building efficient, well-designed, and user-oriented software. I enjoy working across different layers of development — from **backend systems** and **databases** to **interactive frontends**. My work combines strong technical foundations with a drive for clean architecture, automation, and impactful design.
 
 ---
 
-### 🔧 Technologies I Work With  
+### Work Experience
+**Salesforce Intern — PPC Romania (July 2025 - Oct 2025)**
+
+Worked on customizing and automating CRM processes within Salesforce, including field configuration, validation rules, and record-triggered flows to optimize lead management and user experience.
+
+
+**Quality Assurance Intern — Code Of Talent (Apr 2025- May 2025)**
+
+Developed automated test scripts using Selenium WebDriver and meticulously documented identified defects, facilitating efficient issue resolution in collaboration with the development team.
+
+---
+
+### Tech Stack  
 **Advanced:**  
 - **C#**, **ASP.NET Core 8.0**  
-- **PL/SQL**, **Oracle Database**  
+- **PL/SQL**, **SQL**  
 - **Python**
+- **Java**
 
 **Intermediate:**  
-- **C++**, **C**, **CSS**, **HTML**, **JavaScript**, **OOP**, **Docker**
+- **C++**, **C**, **CSS**, **HTML**, **JavaScript**, **Blazor**, **OOP**, **Docker**, **Git**
 
 **Beginner:**  
-- **Node.js**, **R**, **Assembly x86**, **Prolog**, **Haskell**, **Linux**, **Git**
+- **Node.js**, **R**, **Assembly x86**, **Prolog**, **Haskell**, **Linux**
 
 ---
 
-### 🎯 Soft Skills  
+### Soft Skills  
 - **Leadership**: Led educational projects and large-scale events, managing teams of up to 6 people.  
 - **Communication**: Skilled in both technical and non-technical content writing and presentations.  
 - **Project Management**: Effective planning and coordination of complex projects and resources.  
@@ -34,10 +45,10 @@ With a solid academic foundation and hands-on experience in project leadership a
 
 ---
 
-### 📫 Contact Me  
+### Contact Me  
 - **LinkedIn**: [My Profile](https://www.linkedin.com/in/ioana-alexandra-tunaru/)  
 - **Email**: [tunaru.alexandra2005@gmail.com](mailto:tunaru.alexandra2005@gmail.com)  
 
 ---
 
-🔧 **Let's create something extraordinary together!**
+✨ Always curious. Always building.
