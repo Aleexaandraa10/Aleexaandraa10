@@ -1,11 +1,11 @@
 # Hi, I'm Ioana Alexandra Tunaru!  
  **Computer Science Student @ University of Bucharest**  
- **Aspiring Software Engineer | Passionate about .NET, AI & Full-Stack Development**  
+ **Aspiring Software Engineer | Passionate about Kotlin, AI & Full-Stack Development**  
 
 ---
 
 ### About Me  
-I'm a Computer Science student focused on building efficient, well-designed, and user-oriented software. I enjoy working across different layers of development — from **backend systems** and **databases** to **interactive frontends**. My work combines strong technical foundations with a drive for clean architecture, automation, and impactful design.
+I'm a Computer Science student focused on building efficient, well-designed and user-oriented software. I enjoy working across different layers of development — from **backend systems** and **databases** to **interactive frontends**. My work combines strong technical foundations with a drive for clean architecture, automation and impactful design.
 
 ---
 
@@ -23,16 +23,16 @@ Developed automated test scripts using Selenium WebDriver and meticulously docum
 
 ### Tech Stack  
 **Advanced:**  
-- **C#**, **ASP.NET Core 8.0**  
+- **Kotlin**
 - **PL/SQL**, **SQL**  
 - **Python**
 - **Java**
 
 **Intermediate:**  
-- **C++**, **C**, **CSS**, **HTML**, **JavaScript**, **Blazor**, **OOP**, **Docker**, **Git**
+- **C#**, **ASP.NET Core 8.0**, **C++**, **C**, **CSS**, **HTML**, **JavaScript**, **Blazor**, **OOP**, **Git**
 
 **Beginner:**  
-- **Node.js**, **R**, **Assembly x86**, **Prolog**, **Haskell**, **Linux**
+- **Node.js**, **Haskell**, **Linux**, **Docker**
 
 ---
 
