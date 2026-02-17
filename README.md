@@ -15,7 +15,7 @@ I'm a Computer Science student focused on building efficient, well-designed and 
 Worked on customizing and automating CRM processes within Salesforce, including field configuration, validation rules, and record-triggered flows to optimize lead management and user experience.
 
 
-**Quality Assurance Intern — Code Of Talent (Apr 2025- May 2025)**
+**Quality Assurance Intern — Code Of Talent (April 2025 - June 2025)**
 
 Developed automated test scripts using Selenium WebDriver and meticulously documented identified defects, facilitating efficient issue resolution in collaboration with the development team.
 
@@ -29,10 +29,10 @@ Developed automated test scripts using Selenium WebDriver and meticulously docum
 - **Java**
 
 **Intermediate:**  
-- **C#**, **ASP.NET Core 8.0**, **C++**, **C**, **CSS**, **HTML**, **JavaScript**, **Blazor**, **OOP**, **Git**
+- **C#**, **ASP.NET Core 8.0**, **C++**, **C**, **CSS**, **HTML**, **JavaScript**, **Node.js**, **OOP**, **Git**
 
 **Beginner:**  
-- **Node.js**, **Haskell**, **Linux**, **Docker**
+- **Haskell**, **Linux**, **Docker**
 
 ---
 
