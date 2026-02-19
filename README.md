@@ -39,7 +39,7 @@ Developed automated test scripts using Selenium WebDriver and meticulously docum
 ### Soft Skills  
 - **Leadership**: Led educational projects and large-scale events, managing teams of up to 6 people.  
 - **Communication**: Skilled in both technical and non-technical content writing and presentations.  
-- **Project Management**: Effective planning and coordination of complex projects and resources.  
+- **Project Management**: Effective planning and coordination of complex projects.  
 - **Creative Problem-Solving**: Always looking for new and innovative ways to approach challenges.  
 - **Time Management**: Expert in juggling multiple projects without compromising quality.
 
